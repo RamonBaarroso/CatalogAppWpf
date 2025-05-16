@@ -1,0 +1,15 @@
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\bin\Debug\net8.0\ProductCatalog.Infrastructure.deps.json
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\bin\Debug\net8.0\ProductCatalog.Infrastructure.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\bin\Debug\net8.0\ProductCatalog.Infrastructure.pdb
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\bin\Debug\net8.0\ProductCatalog.Core.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\bin\Debug\net8.0\ProductCatalog.Core.pdb
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.AssemblyInfo.cs
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductC.710271C5.Up2Date
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\refint\ProductCatalog.Infrastructure.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ProductCatalog.Infrastructure.pdb
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalog.Infrastructure\obj\Debug\net8.0\ref\ProductCatalog.Infrastructure.dll
