@@ -1,0 +1,11 @@
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\bin\Debug\net8.0\ProductCatalog.Core.deps.json
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\bin\Debug\net8.0\ProductCatalog.Core.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\bin\Debug\net8.0\ProductCatalog.Core.pdb
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.AssemblyInfoInputs.cache
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.AssemblyInfo.cs
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\refint\ProductCatalog.Core.dll
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ProductCatalog.Core.pdb
+C:\Users\ramon.barroso\source\repos\ProductCatalogApp\ProductCatalogApp.Core\obj\Debug\net8.0\ref\ProductCatalog.Core.dll
