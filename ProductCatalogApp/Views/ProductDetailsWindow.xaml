@@ -1,0 +1,20 @@
+﻿<Window x:Class="ProductCatalogApp.Views.ProductDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Detalhes do Produto" Height="300" Width="400">
+  <StackPanel Margin="20">
+    <TextBlock Text="Categoria:" FontWeight="Bold" />
+    <TextBlock Text="{Binding Category}" Margin="0,0,0,10" />
+    <TextBlock Text="Descrição:" FontWeight="Bold" />
+    <TextBlock Text="{Binding Description}" Margin="0,0,0,10" />
+    <TextBlock Text="Avaliação:" FontWeight="Bold" />
+    <TextBlock Text="{Binding Rating.Rate}" />
+    <TextBlock Text="{Binding Rating.Count, StringFormat={}{0} avaliações}" Margin="0,0,0,10" />
+
+    <Button Content="Fechar" HorizontalAlignment="Right" Width="75" Click="Close_Click" />
+    <Button Content="Favoritar" Click="Favorite_Click"/>
+
+  </StackPanel>
+
+
+</Window>
